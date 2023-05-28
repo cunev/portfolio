@@ -17,7 +17,7 @@ function App() {
           </div>
         </div>
         <div className="text-lg mt-12 lg:text-left text-center">
-          I'm a developer and a reverse engineer from Republic in Moldova. I'm
+          I'm a developer and a reverse engineer from Republic of Moldova. I'm
           passionate about frontend development and I have created a few
           websites that are used by thousands of people on daily bases. The
           projects I led and contributed to are{" "}
