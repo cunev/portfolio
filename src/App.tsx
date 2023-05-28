@@ -42,7 +42,7 @@ function App() {
         </div>
       </div>
 
-      <div className="relative w-full mt-12 flex justify-center">
+      <div className="relative w-full mt-12 flex justify-center mb-12">
         <div className="flex flex-col w-full absolute -z-40">
           <div className="bg-black h-2"></div>
           <div className="bg-white h-2"></div>
