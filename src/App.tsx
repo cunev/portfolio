@@ -27,7 +27,7 @@ function App() {
           and{" "}
           <span className="text-blue-600 hover:underline">
             <a href="https://assist.games">Assist Games</a>
-          </span>{" "}
+          </span>
           . During my journey I also made a small and scuffed game called
           Pretend which sold over 25000 copies{" "}
           <span className="text-xs text-blue-600 hover:underline">
